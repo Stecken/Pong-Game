@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,14): warning C4200: extensão não padrão usada: matriz de tamanho zero em struct/union
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,14): message : Esse membro será ignorado por um construtor ou um operador de atribuição de copiar/mover padrão
+  SDLTestVisualStudio.vcxproj -> C:\DevStecken\Tests\SDLTestVisualStudio\Debug\SDLTestVisualStudio.exe

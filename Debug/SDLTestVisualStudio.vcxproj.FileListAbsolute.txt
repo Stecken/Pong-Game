@@ -1,0 +1,2 @@
+C:\DevStecken\Tests\SDLTestVisualStudio\Debug\SDLTestVisualStudio.exe
+C:\DevStecken\Tests\SDLTestVisualStudio\Debug\SDLTestVisualStudio.pdb

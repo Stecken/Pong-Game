@@ -1,4 +1,15 @@
-﻿  main.cpp
-C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,14): warning C4200: extensão não padrão usada: matriz de tamanho zero em struct/union
-C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,14): message : Esse membro será ignorado por um construtor ou um operador de atribuição de copiar/mover padrão
-  SDLTestVisualStudio.vcxproj -> C:\DevStecken\Tests\SDLTestVisualStudio\Debug\SDLTestVisualStudio.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (SDLTestVisualStudio.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  game.cpp
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,6): warning C4200: extensão não padrão usada: matriz de tamanho zero em struct/union
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,6): message : Esse membro será ignorado por um construtor ou um operador de atribuição de copiar/mover padrão
+  a.cpp
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,6): warning C4200: extensão não padrão usada: matriz de tamanho zero em struct/union
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,6): message : Esse membro será ignorado por um construtor ou um operador de atribuição de copiar/mover padrão
+  main.cpp
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,6): warning C4200: extensão não padrão usada: matriz de tamanho zero em struct/union
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,6): message : Esse membro será ignorado por um construtor ou um operador de atribuição de copiar/mover padrão
+  player.cpp
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,6): warning C4200: extensão não padrão usada: matriz de tamanho zero em struct/union
+C:\DevStecken\Tests\SDLTestVisualStudio\player.h(11,6): message : Esse membro será ignorado por um construtor ou um operador de atribuição de copiar/mover padrão
+  Gerando Código...
+  SDLTestVisualStudio.vcxproj -> C:\DevStecken\Tests\SDLTestVisualStudio\Debug\GuiPong.exe
